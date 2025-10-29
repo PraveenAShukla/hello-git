@@ -3,8 +3,4 @@ Initial notes
 - item 2
 
 Summary:
-- feature summary
-- main summary
-
-Insights:
-- new insights on main
+- base summary
