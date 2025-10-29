@@ -3,4 +3,4 @@ Initial notes
 - item 2
 
 Summary:
-- base summary
+- feature summary
